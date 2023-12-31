@@ -27,7 +27,7 @@ To run this project, you will need:
 	Right-click on the solution in Solution Explorer and select "Restore NuGet Packages".
 
 4.Set Up the Database:
-	Ensure your SQL Server instance is running.
+	Ensure your MySQL instance is running.
 	Use Entity Framework Core migrations to set up your database.
 
 5. Configure the Application:

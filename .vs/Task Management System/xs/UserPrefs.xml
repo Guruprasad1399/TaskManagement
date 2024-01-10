@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{9055A3AE-10AA-46BF-9694-F313843DB136}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Task_220Management_220System PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task Management System/appsettings.json">
+    <Files>
+      <File FileName="Task Management System/Program.cs" />
+      <File FileName="Task Management System/appsettings.json" Line="6" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task Management System">
+            <Node name="Task Management System" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="appsettings.json" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

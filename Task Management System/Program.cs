@@ -8,7 +8,7 @@ builder.Services.AddControllersWithViews();
 string connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
 // Configuring Pomelo for MySQL
-var serverVersion = new MySqlServerVersion(new Version(8, 0, 29));
+var serverVersion = new MySqlServerVersion(new Version(8, 0, 34));
 
 builder.Services.AddDbContext<ApplicationDbContext>(options =>
     options.UseMySql(connectionString, serverVersion));

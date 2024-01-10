@@ -7,6 +7,8 @@
     <RootNamespace>Task_Management_System</RootNamespace>
   </PropertyGroup>
 
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'https' " />
+  <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
     <Compile Remove="Views\NewFolder1\**" />
     <Compile Remove="Views\NewFolder2\**" />

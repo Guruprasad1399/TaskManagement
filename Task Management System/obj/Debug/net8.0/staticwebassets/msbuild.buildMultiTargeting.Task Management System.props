@@ -1,3 +1,3 @@
 ﻿<Project>
-  <Import Project="..\build\Task Management System.props" />
+  <Import Project="../build/Task Management System.props" />
 </Project>

@@ -45,5 +45,5 @@ Ensure your MySQL instance is running.
 
 ![Edit Task](/Screenshots/1.png)
 ![Tasks List](/Screenshots/2.png)
-![Edit Task](/screenshots/3.png)
-![Create Task](/screenshots/5.png)
+![Edit Task](/Screenshots/3.png)
+![Create Task](/Screenshots/5.png)
